@@ -21,7 +21,7 @@ export default function Footer() {
               <span className="text-white font-semibold text-[14px] tracking-tight">FlowPilot</span>
             </div>
             <p className="text-[13px] text-[#525252] max-w-[220px] leading-relaxed">
-              AI-powered workspace for teams that ship.
+              The workspace built for teams that ship.
             </p>
           </div>
 
